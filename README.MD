@@ -8,3 +8,4 @@
 ## Compatible with
 ### [Cinematic Unity Explorer](https://github.com/originalnicodr/CinematicUnityExplorer)
 - [Download this build](https://github.com/originalnicodr/CinematicUnityExplorer/releases/latest/download/CinematicUnityExplorer.BepInEx6.Mono.zip) and unpack to `ENA Dream BBQ/BepInEx`
+![Dream BBQ with Cinematic Unity Explorer running](images/example.pngena_unityexplorer.jpg
